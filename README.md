@@ -1,4 +1,5 @@
 **Synent Technology — Multi-Page Website**
+
 A professional, responsive multi-page website for Synent Technology, built with pure HTML, CSS, and JavaScript. No frameworks, no build tools — just open and run.
 
 📁 **Project Structure**
@@ -18,6 +19,7 @@ synent/
 ├── script.js        # Interactive JavaScript
 
 └── README.md        # Project documentation
+__________________________________________________________________________________________________________________________________________
 
 📄 **Pages Overview**
 
@@ -32,12 +34,14 @@ Feature cards grid (4 key offerings)
 CTA banner
 
 Client testimonials section
+__________________________________________________________________________________________________________________________________________
 
 👥 **About (about.html)**
 
 Page hero with tagline
 
 Mission & values section
+__________________________________________________________________________________________________________________________________________
 
 ⚙️ **Services (services.html)**
 
@@ -56,6 +60,7 @@ AI & Machine Learning
 UI/UX Design
 
 Data & Analytics
+__________________________________________________________________________________________________________________________________________
 
 📬 **Contact (contact.html)**
 
